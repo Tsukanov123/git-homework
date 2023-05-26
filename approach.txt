@@ -1,0 +1,5 @@
+Test automation has different approaches, here are some of them:
+Test Driven Developement
+Behaviour Driven Development
+Keyword Driven Developement
+Data-driven testing
